@@ -1,0 +1,7 @@
+/* 轮播图的适配样式 */
+.carousel-inner .carousel-item img {
+    object-fit: cover; /* 保证图片裁剪并适配 */
+    width: 100%;       /* 使图片宽度填满容器 */
+    height: 500px;     /* 设置固定高度，可以根据需要调整 */
+  }
+  
