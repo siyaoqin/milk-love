@@ -8,6 +8,13 @@
 ############################
 # --- Required options --- #
 ############################
+# _config.yml
+baseurl: "/milk-love" # For project site, set to your repository name
+url: "https://siyaoqin.github.io"
+theme: "beautiful-jekyll"
+
+# Other settings...
+
 
 # Name of website
 title: Milk Love
@@ -20,7 +27,7 @@ author: siyaoqin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About ML: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
