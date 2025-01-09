@@ -25,7 +25,7 @@ author: siyaoqin
 navbar-links:
   About ML: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Fanfiction: "/_layout/article.html"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://github.com/siyaoqin"
 
