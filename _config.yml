@@ -9,11 +9,8 @@
 # --- Required options --- #
 ############################
 # _config.yml
-baseurl: "/milk-love" # For project site, set to your repository name
-url: "https://siyaoqin.github.io"
 
 # Other settings...
-
 
 # Name of website
 title: Milk Love
